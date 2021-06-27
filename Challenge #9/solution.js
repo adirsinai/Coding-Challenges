@@ -1,4 +1,4 @@
-//Coding Challenge #1
+//Coding Challenge #9
 const game = {
   team1: 'Bayern Munich',
   team2: 'Borrussia Dortmund',
